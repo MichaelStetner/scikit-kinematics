@@ -22,7 +22,7 @@ __author__ = "Thomas Haslwanter <thomas.haslwanter@fh-linz.at"
 __license__ = "BSD 2-Clause License"
 __version__ = "0.7.7"
 
-__all__ = ['imus', 'markers', 'misc', 'quat', 'rotmat', 'vector', 'view', 'sensors']
+__all__ = ['imus', 'markers', 'misc', 'quat', 'rotmat', 'vector', 'sensors']
 #__all__ = []
 
 for _m in __all__:
